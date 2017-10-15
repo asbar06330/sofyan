@@ -1,0 +1,2 @@
+# sofyan
+safelink.js
